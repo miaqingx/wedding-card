@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wedding-Card</title>
+</head>
+<body>
+    <header></header>
+    <main>
+        <div>
+            <div id="header-row">
+                <div id="header-left">  </div>
+                <div id="header-right"> 
+                <p>HOMEPAGE</p>
+                <p>OUR STORY</p>
+                <p>THE WEDDING</p>
+                <p>PEOPLE</p>
+                <p>GALLERY</p>
+                <p>RSVP</p>
+                <p>CONTACT US</p> </div>
+            </div>
+
+            <div id="first-box-left">
+                <h3>👋HI THERE, YOU'RE INVITED</h3>
+                <h2>WE'RE GETTING MARRIED</h2>
+                <i class="fa-solid fa-circle-check"></i>
+                <i class="fa-solid fa-circle-check"></i>
+                <P></P>
+            </div>
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </main>
+    <footer></footer>
+</body>
+</html>
